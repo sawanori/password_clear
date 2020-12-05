@@ -15,7 +15,7 @@ export function CartContents() {
 
   return (
     <section>
-      <h1>Your cart</h1>
+      <h1>Your cart!</h1>
       {!!checkout?.lineItems && (
         <CartHeader>
           <div>Product</div>
