@@ -1,4 +1,4 @@
-   # Gatsby Shopify starter
+       # Gatsby Shopify starter
 
 **Getting started**
 
